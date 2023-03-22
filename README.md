@@ -1,6 +1,6 @@
 # AI_translator
 
-##Simple python app, which uses OpenAI to translate sentence to language provided by the user.
+## Simple python app, which uses OpenAI to translate sentence to language provided by the user.
 ### Configuration
 - Inside the api_key.py file provide your openai api key 
 - API_KEY = "your_openai_api_key"
