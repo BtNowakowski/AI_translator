@@ -3,8 +3,8 @@
 ##Simple python app, which uses OpenAI to translate sentence to language provided by the user.
 ### Configuration
 - Inside the api_key.py file provide your openai api key 
-- API_KEY = "your openai api key
-- You can get your api key here - [OpenAI](https://platform.openai.com/account/api-keys)
+- API_KEY = "your_openai_api_key"
+- You can get your api key here - [OpenAI - Api Keys](https://platform.openai.com/account/api-keys)
 
 ![image](https://user-images.githubusercontent.com/107316656/226877707-fb15d7e6-2fba-4eb7-bdfa-b71150a93009.png)
 
