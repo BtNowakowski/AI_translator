@@ -8,7 +8,7 @@
 - That's all, everything should be working from now
 - You can get your api key here - [OpenAI - Api Keys](https://platform.openai.com/account/api-keys)
 
-![image](https://user-images.githubusercontent.com/107316656/226877707-fb15d7e6-2fba-4eb7-bdfa-b71150a93009.png)
+- ![image](https://user-images.githubusercontent.com/107316656/226877707-fb15d7e6-2fba-4eb7-bdfa-b71150a93009.png)
 
 
 ### How to use:
@@ -17,4 +17,4 @@
 - Provide text in any language
 - Click submit button
 
-![image](https://user-images.githubusercontent.com/107316656/226874702-4f66bb47-e641-4365-93e2-f8b8c99656f9.png)
+- ![image](https://user-images.githubusercontent.com/107316656/226874702-4f66bb47-e641-4365-93e2-f8b8c99656f9.png)
